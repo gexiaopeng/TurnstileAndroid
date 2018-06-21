@@ -1,0 +1,6 @@
+<!--
+  ~ Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

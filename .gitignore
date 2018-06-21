@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/caches
+/.idea/codeStyles
+.DS_Store
+/build
+eagle.py
+/captures
+.externalNativeBuild
+
+/freeline
+freeline.py

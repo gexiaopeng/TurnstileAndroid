@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TurnStile</string>
+    <string name="bd_app_name">demo-turnstile-face-android</string>
+    <string name="title_activity_register_result">RegisterResult</string>
+</resources>

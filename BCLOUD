@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -u . -x -e ubuntu -m baidu/aip-android/Turnstile -c "cd baidu/aip-android/Turnstile && chmod -R +x ./ && ./build.sh"
